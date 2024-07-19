@@ -8,7 +8,7 @@ sets, promises, etc. in JavaScript.
 
 ## Installation
 
-    npm install clone
+npm install clone
 
 (It also works with browserify, ender or standalone. You may want to use the
 option `noParse` in browserify to reduce the resulting file size, since usually
